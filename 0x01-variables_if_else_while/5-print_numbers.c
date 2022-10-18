@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - Entry point
- * Description: prints allsingle digit numbers of
+ * Description: prints all single digit numbers of
  * base 10 to 0
  * Return: Always 0 (success)
  */
@@ -16,3 +16,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+}
