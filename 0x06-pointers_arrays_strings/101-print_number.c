@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * ptiny_number - prints an integer.
+ * print_number - prints an integer.
  * @n: input integer
  */
 
