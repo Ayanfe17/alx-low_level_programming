@@ -10,6 +10,7 @@ void not_close(int fd)
 	exit(100);
 }
 
+
 /**
  * cp - copy a file
  * @from: file to copy
